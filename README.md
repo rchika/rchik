@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divya kumari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="400" src="
-C:\Users\91732\Documents\Downloads\download (1).jpg">
+<img align="right" alt="coding"width="400" src="https://www.hilabs.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffeature1.14ac60d1.png&w=1080&q=75">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rchika&label=Profile%20views&color=0e75b6&style=flat" alt="rchika" /> </p>
 
 - 🔭 I’m currently working on **30-Days-of-Develops**
